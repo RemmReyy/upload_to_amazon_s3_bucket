@@ -24,4 +24,4 @@ aws configure  # Set up credentials
 
 License
 MIT © RemmReyy
-<p align="center"><sub>Copy & paste the above into <code>README.md</code></sub></p>
+
