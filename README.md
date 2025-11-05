@@ -14,13 +14,7 @@ Simple Python script to upload files or directories to an Amazon S3 bucket using
 - AWS credentials with `s3:PutObject` permission
 - (Optional) `tqdm`: `pip install tqdm`
 
-## Setup
-```bash
-git clone https://github.com/RemmReyy/upload_to_amazon_s3_bucket.git
-cd upload_to_amazon_s3_bucket
-pip install -r requirements.txt
-aws configure  # Set up credentials
-```
+---
 
 License
 MIT © RemmReyy
